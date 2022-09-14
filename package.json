@@ -1,0 +1,18 @@
+{
+  "name": "zou-zoomer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "zou-zoomer"
+  },
+  "keywords": [
+    "zoomer"
+  ],
+  "author": "zouhaojie",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "vuex": "^4.0.2"
+  }
+}
