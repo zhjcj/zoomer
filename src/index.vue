@@ -1,6 +1,6 @@
 <script setup>
-import { ref, onMounted, reactive, onBeforeUnmount } from 'vuex';
-import { debounce } from 'lodash'
+import { ref, onMounted, reactive, onBeforeUnmount } from 'vue';
+import { debounce } from 'lodash-es'
 
 defineProps({
   imgSrc: {

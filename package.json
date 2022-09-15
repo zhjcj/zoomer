@@ -1,6 +1,6 @@
 {
   "name": "zou-zoomer",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -12,7 +12,5 @@
   "author": "zouhaojie",
   "license": "MIT",
   "dependencies": {
-    "lodash": "^4.17.21",
-    "vuex": "^4.0.2"
   }
 }
